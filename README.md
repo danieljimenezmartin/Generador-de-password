@@ -20,7 +20,7 @@
 
 ## <a name="objetivos"></a>Objetivos 🎯
 
-*   Desarrollar un generador de contraseñas automático con el objetivo de trabajar con el DOM en JavaScript, el acceso a sus elementos y la movilidad entre ellos.
+*   Desarrollar un generador de contraseñas automático con el objetivo de trabajar con el DOM en JavaScript.
 *   Conocer y trabajar con el acceso a los elementos del DOM, así como la movilidad entre ellos.
 *   Implementar la utilización de los eventos en JavaScript y su aplicación a los elementos del DOM.  
 <br/>
