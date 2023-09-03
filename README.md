@@ -15,8 +15,7 @@
 <br/>
 
 ## <a name="demo"></a>Demo 📹
-
-![reloj](https://github.com/danieljimenezmartin/Reloj-digital-y-analogico/assets/117579989/28e7568a-a3c0-4854-91c1-e6e3c90111cd)
+![generador_password](https://github.com/danieljimenezmartin/Generador-de-password/assets/117579989/ec05701b-08ef-4b18-b30b-3f02778eb9b0)
 <br/>
 
 ## <a name="objetivos"></a>Objetivos 🎯
