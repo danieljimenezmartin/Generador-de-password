@@ -30,7 +30,7 @@ Este proyecto no necesita instalación.
 <br/>
 
 ## <a name="ver-proyecto"></a>Ver el proyecto ⚡
-- [[https://danieljimenezmartin.github.io/reloj/](https://danieljimenezmartin.github.io/Reloj-digital-y-analogico/)](https://danieljimenezmartin.github.io/Generador-de-password/)
+- https://danieljimenezmartin.github.io/Generador-de-password/
 <br/>
 
 ## <a name="desarrollo"></a>Desarrollo 📐
